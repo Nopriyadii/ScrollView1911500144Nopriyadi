@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScrollView1911500144_Nopriyadi</string>
+    <string name="Judul">Aplikasi Web </string>
+    <string name="Isi">Dalam rekayasa perangkat lunak, suatu aplikasi web (bahasa Inggris: web application atau sering disingkat webapp) adalah suatu aplikasi yang diakses menggunakan penjelajah web melalui suatu jaringan seperti Internet atau intranet. Ia juga merupakan suatu aplikasi perangkat lunak komputer yang dikodekan dalam bahasa yang didukung penjelajah web (seperti ASP, Perl, Java, Java Script, PHP, Python, Ruby, dll) dan bergantung pada penjelajah tersebut untuk menampilkan aplikasi.
+
+Aplikasi web menjadi populer karena kemudahan tersedianya aplikasi klien untuk mengaksesnya, penjelajah web, yang kadang disebut sebagai suatu thin client (klien tipis). Kemampuan untuk memperbarui dan memelihara aplikasi web tanpa harus mendistribusikan dan menginstalasi perangkat lunak pada kemungkinan ribuan komputer klien merupakan alasan kunci popularitasnya. Aplikasi web yang umum misalnya webmail, toko ritel, lelang online, wiki, papan diskusi, weblog.
+
+Banyak keuntungan yang diberikan oleh Aplikasi berbasis Web daripada aplikasi berbasis desktop, sehingga aplikasi berbasis web telah diadopsi oleh perusahaan sebagai bagian dari strategi teknologi informasinya, karena beberapa alasan:
+
+Akses informasi mudah,
+Setup server lebih mudah
+Informasi mudah didistribusikan
+Bebas platform, informasi dapat disajikan oleh browser web pada sistem operasi mana saja karena adanya standar dokumen berbagai tipe data dapat disajikan
+</string>
+</resources>
